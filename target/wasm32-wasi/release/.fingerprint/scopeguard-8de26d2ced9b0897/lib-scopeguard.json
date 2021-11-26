@@ -1,0 +1,1 @@
+{"rustc":13783575115907918084,"features":"[]","target":4257383469639592577,"profile":4339006351771724982,"path":454363418817422704,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/release/.fingerprint/scopeguard-8de26d2ced9b0897/dep-lib-scopeguard"}}],"rustflags":["-C","debuginfo=2"],"metadata":8648443508444719667,"config":0}
