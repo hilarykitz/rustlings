@@ -1,0 +1,12 @@
+/Users/hkierans/rust/rustlings/target/release/deps/notify-04d5fe7c5f8306c5.rmeta: /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/hkierans/rust/rustlings/target/release/deps/libnotify-04d5fe7c5f8306c5.rlib: /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/hkierans/rust/rustlings/target/release/deps/notify-04d5fe7c5f8306c5.d: /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs:

@@ -1,0 +1,1 @@
+{"rustc":8681439560696882746,"features":"[]","target":16297762786160453571,"profile":4339006351771724982,"path":5406440242846860306,"deps":[[9354177244160890506,"libc",false,746279134257539158]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/terminal_size-ba49d0b4fb89fb62/dep-lib-terminal_size"}}],"rustflags":[],"metadata":2052073116003689238,"config":0}

@@ -1,0 +1,12 @@
+/Users/hkierans/rust/rustlings/target/release/deps/console-379406e2c3340a4b.rmeta: /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/hkierans/rust/rustlings/target/release/deps/libconsole-379406e2c3340a4b.rlib: /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/hkierans/rust/rustlings/target/release/deps/console-379406e2c3340a4b.d: /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs:
+/Users/hkierans/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs:

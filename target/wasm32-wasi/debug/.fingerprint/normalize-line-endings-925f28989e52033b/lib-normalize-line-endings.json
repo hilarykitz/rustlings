@@ -1,0 +1,1 @@
+{"rustc":13783575115907918084,"features":"[]","target":2549189565606405423,"profile":16668067249205866872,"path":719920687680324291,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/debug/.fingerprint/normalize-line-endings-925f28989e52033b/dep-lib-normalize-line-endings"}}],"rustflags":["-C","debuginfo=2"],"metadata":5119427980633079042,"config":0}

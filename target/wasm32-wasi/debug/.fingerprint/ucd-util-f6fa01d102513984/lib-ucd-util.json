@@ -1,0 +1,1 @@
+{"rustc":13783575115907918084,"features":"[]","target":8428762187532448258,"profile":16668067249205866872,"path":9357826356222243160,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/debug/.fingerprint/ucd-util-f6fa01d102513984/dep-lib-ucd-util"}}],"rustflags":["-C","debuginfo=2"],"metadata":10913448515271680259,"config":0}
